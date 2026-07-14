@@ -1,0 +1,6 @@
+{
+  "name": "colojo",
+  "description": "Application de pronostics et d'analyses de football de classe mondiale utilisant l'intelligence artificielle pour des analyses ultra-précises en temps réel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
